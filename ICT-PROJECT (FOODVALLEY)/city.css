@@ -1,0 +1,27 @@
+.box img {
+    width: 249px;
+    height: 156px;
+    margin-bottom: 15px;
+}
+
+.city-feature {
+    margin-bottom: 5px;
+}
+
+.box {
+    padding: 1%;
+}
+
+.span-1-of-4 {
+    width: 23.8%;
+}
+
+.col {
+    display: block;
+    float: left;
+    margin: 1% 0 1% 1.6%;
+}
+
+.col:first-child {
+    margin-left: 0;
+}

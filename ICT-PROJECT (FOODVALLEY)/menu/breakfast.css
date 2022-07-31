@@ -1,0 +1,49 @@
+.menu {
+    background-color: #f8f8f8;
+}
+
+.menu .content {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 10px;
+}
+
+section {
+    padding: 27px;
+}
+
+.menu .content .box {
+    width: 340px;
+    margin: 20px;
+    border: 12px solid #fff;
+    box-shadow: 0 5px 35px rgba(0, 0, 0, 0.08);
+}
+
+.menu .content .box .imgBx {
+    width: 100%;
+}
+
+.menu .content .box .imgBx img {
+    width: 284.267px;
+    height: 284.267px;
+    object-fit: cover;
+}
+
+.menu .content .box .text h3 {
+    margin: 5px 0;
+}
+
+.text p {
+    font-size: small;
+}
+
+h4 {
+    padding-top: 10px;
+}
+
+.text a {
+    text-align: center;
+    padding-top: 15px;
+}
